@@ -1,4 +1,4 @@
-# Cloud Exploit and Detect: AWS GuardDuty Lab
+# Cloud Exploit and Detect: AWS Guard Duty Lab
 
 ## Objective
 
