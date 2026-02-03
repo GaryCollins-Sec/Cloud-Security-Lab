@@ -1,4 +1,4 @@
-# Cloud Security Lab
+# Cloud Security with AWS IAM
 
 ## Objective
 
